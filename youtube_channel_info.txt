@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 paul| paul | https://upload.wikimedia.org/wikipedia/en/b/b0/V6_News_logo.png |
-https://www.youtube.com/watch?v=xf3n08E56SY
+https://www.youtube.com/c/24OnLive/live
 
 
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
